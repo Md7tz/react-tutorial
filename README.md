@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Simple form with validation build with React
+> tutorial inspired from [Academind](https://academind.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
